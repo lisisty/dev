@@ -21,9 +21,6 @@
 <img height=400 align="left" src="https://github.com/lisisty/dev/blob/master/GlassWall/gameplay.gif?raw=true"/>
 <img height=400 src="https://github.com/lisisty/dev/blob/master/GlassWall/ui.gif?raw=true"/>
 
-### Ссылки
-- [Скрины и видео](https://github.com/lisisty/dev/tree/master/LastTower/screenshots)
-
 
 
 # WowSnow VR
@@ -34,9 +31,6 @@
 <img width=400 src="https://github.com/lisisty/dev/blob/master/WowSnow/2022-01-14%2018.15.46.jpg?raw=true"/>
 <img width=400 align="left" src="https://github.com/lisisty/dev/blob/master/WowSnow/2022-01-14%2018.16.32.jpg?raw=true"/>
 <img width=400 src="https://github.com/lisisty/dev/blob/master/WowSnow/2022-01-14%2018.16.50.jpg?raw=true"/>
-
-### Ссылки
-- [Скрины и видео](https://github.com/lisisty/dev/tree/master/WowSnow)
 
 
 
@@ -59,9 +53,6 @@
 <img height=400 align="left" src="https://github.com/lisisty/dev/blob/master/ARRoom/2022-01-14%2017.42.10.png?raw=true"/>
 <img height=400 align="left" src="https://github.com/lisisty/dev/blob/master/ARRoom/2022-01-14%2017.45.08.png?raw=true"/>
 <img height=400 src="https://github.com/lisisty/dev/blob/master/ARRoom/2022-01-16%2020.18.21.png?raw=true"/>
-
-### Ссылки
-- [Скрины и видео](https://github.com/lisisty/dev/tree/master/ARRoom)
 
 ### Библиотеки
 - ARCore для AR
