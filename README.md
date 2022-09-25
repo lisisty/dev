@@ -1,3 +1,15 @@
+# GBRP
+Online openworld role play game prototype.
+
+<img width=400 align="left" src="https://github.com/lisisty/dev/blob/master/GBRP/ezgif-2-888b3a0c7f.gif?raw=true"/>
+<img width=400 src="https://github.com/lisisty/dev/blob/master/GBRP/ezgif-2-a2a6e24939.gif?raw=true"/>
+<img width=400 align="left" src="https://github.com/lisisty/dev/blob/master/GBRP/ezgif-2-df8faa4d62.gif?raw=true"/>
+<img width=400 src="https://github.com/lisisty/dev/blob/master/GBRP/ezgif-2-944d38b474.gif?raw=true"/>
+
+### Links
+- [More](https://github.com/lisisty/dev/tree/master/GBRP)
+
+
 # Hitmaster Demo
 Hyper-casual game prototype in one day
 
@@ -56,7 +68,7 @@ A simple platformer demo with pixel graphics
 
 
 # ARRoom
-A service where you can download any animated 3D model in GLTF format (for example, from sketchfab) and display it in augmented reality. There is an opportunity to share your model with friends.
+A service where you can download any animated 3D model in GLTF format (for example, from sketchfab) and display it in augmented reality. There is an opportunity to share your model with friends. Server-driven UI.
 
 <img width=190 align="left" src="https://github.com/lisisty/dev/blob/master/ARRoom/2022-01-14%2017.41.20.png?raw=true"/>
 <img width=190 align="left" src="https://github.com/lisisty/dev/blob/master/ARRoom/2022-01-14%2017.42.10.png?raw=true"/>
@@ -64,7 +76,8 @@ A service where you can download any animated 3D model in GLTF format (for examp
 <img width=190 src="https://github.com/lisisty/dev/blob/master/ARRoom/2022-01-16%2020.18.21.png?raw=true"/>
 
 ### Used
-- ARCore
+- ARCore, MaxstAR
+- UniTask
 - GLTFUtility
 - ZXing
 - SharpZipLib
