@@ -10,19 +10,8 @@ Online openworld role play game prototype.
 - [More](https://github.com/lisisty/dev/tree/master/GBRP)
 
 
-# Hitmaster Demo
-Hyper-casual game prototype in one day
-
-<img width=190 align="left" src="https://github.com/lisisty/test-hitmaster/blob/master/Screens/1.gif?raw=true"/>
-<img width=190 align="left" src="https://github.com/lisisty/test-hitmaster/blob/master/Screens/2.gif?raw=true"/>
-<img width=190 src="https://github.com/lisisty/test-hitmaster/blob/master/Screens/3.gif?raw=true"/>
-
-### Links
-- [Sources](https://github.com/lisisty/test-hitmaster)
-
-
 # Mad Red
-Hitmaster two weeks later
+Two weeks dev hyper-casual game
 
 <img width=190 align="left" src="https://github.com/lisisty/dev/blob/master/MadRed/ezgif-4-bd04872a6d.gif?raw=true"/>
 <img width=190 align="left" src="https://github.com/lisisty/dev/blob/master/MadRed/ezgif-4-552be64b30.gif?raw=true"/>
